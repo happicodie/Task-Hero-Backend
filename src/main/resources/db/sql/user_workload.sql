@@ -1,0 +1,9 @@
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (1, '4428282679', 20, 10, 0.5);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (2, '2422100825', 30, 3.5, 0.11666666666666667);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (3, '7971412876', 20, 4, 0.2);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (4, '3925524729', 20, 0, 0);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (5, '1923185640', 20, 6, 0.3);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (6, '6770262065', 20, 0, 0);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (7, '5142035504', 20, 0, 0);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (8, '8744346133', 20, 0, 0);
+INSERT INTO comp9900_backend.user_workload (sys_id, user_id, user_available, user_working, user_busy) VALUES (9, '4664726952', 20, 0, 0);

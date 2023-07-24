@@ -1,0 +1,48 @@
+spring:
+  main:
+    allow-circular-references: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: task-hero
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: andy.w.1091025911@gmail.com
+    password: fmuqfgkrqzmthvwd
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/task_hero
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  configuration:
+    cache-enabled: true
+    use-generated-keys: true
+    default-executor-type: reuse
+    use-actual-param-name: true
+    #    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: false
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+#              MongoTemplate: DEBUG
+

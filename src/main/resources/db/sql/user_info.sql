@@ -1,0 +1,9 @@
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (1, '4428282679', 'Dongzhe', '5206651166', 'Today I dont wanna do anything.', 'RIOT');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (2, '2422100825', 'Wuyue', '2632834', 'hi I''m a good frontend developer', 'Twitter');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (3, '7971412876', 'Wenzhe', '23869432', 'I''m a good database developer! Welcome to connect with me!', 'Facebook');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (4, '3925524729', 'Junyuan', '327413343', 'Hi, I''m interested in various kinds of algorithms.', 'Telstra');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (5, '1923185640', 'Shukai', '38169414', 'Hi I''m interested in UI design.', 'Google');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (6, '6770262065', 'anna', '421364981', 'Hi nice to work with all of you!', 'Facebook');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (7, '5142035504', 'bob', '34618341', 'Hi welcome to send connection to me!', 'Software Company');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (8, '8744346133', 'Jack', '123432100', 'Jack and Rose ! ! !', 'Hollywood');
+INSERT INTO comp9900_backend.user_info (info_id, user_id, user_p_name, user_mobile, user_sentence, user_comp) VALUES (9, '4664726952', 'Cindy', '1234123', '', 'RIOT');

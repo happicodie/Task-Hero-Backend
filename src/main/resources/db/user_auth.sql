@@ -1,0 +1,9 @@
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (1, '4428282679', 'dongzhe@gmail.com', '$2a$10$m0oGtwCbvDNhLlLsTJio.uD1X7tdNjUp927yRVvgoe3o5r4pyRMLe');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (2, '2422100825', 'wuyue@gmail.com', '$2a$10$7B.6XAcpqT2dfGXDrdN3dOiKJc/hetxQDDZSDNylLtqhln.6ADYd2');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (3, '7971412876', 'wenzhe@gmail.com', '$2a$10$hHMnitZdDrVXobDf2LEgM.ewDzUJ.4cZ/iwBVKEF2eqPWvVYoygei');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (4, '3925524729', 'junyuan@gmail.com', '$2a$10$5C4oNQA1/zS8lKUncpBAAuX0hpMFq5aOaunctv0Xls.3re863KskO');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (5, '1923185640', 'shukai@gmail.com', '$2a$10$UvOhzWrcW2v.I4tVx.n15OSRFIrbgur46TkzglQNVGxTbE/Xs3sqy');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (6, '6770262065', 'anna@gmail.com', '$2a$10$4jtT58nOgsvQoFEDyRFVUu6Z1TaO.rL70OrWIEn2x8/GS421n.DFS');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (7, '5142035504', 'bob@gmail.com', '$2a$10$q5QBSbCu.F7Yt6ZairsPc.m/CZwEBvV1ArjDZz4UuGeOvDc0AzhS.');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (8, '8744346133', 'jack@gmail.com', '$2a$10$db0tSEjhAF1SiyPB9J4h9eBdzlbqaLtQzrM5bYgV5VF3JUh3foOLW');
+INSERT INTO comp9900_backend.user_auth (auth_id, user_id, user_name, user_password) VALUES (9, '4664726952', 'cindy@gmail.com', '$2a$10$j.gueV8UVbhwV4TLXr8EkuUTmD62xP3zuq4g7DbLSfVheJnTX0Q1S');

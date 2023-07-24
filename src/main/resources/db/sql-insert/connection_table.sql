@@ -1,0 +1,14 @@
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (1, '4428282679', '2422100825', 1, 'Hi Wu yue ');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (2, '4428282679', '7971412876', 1, 'Hi Wenzhe');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (3, '4428282679', '1923185640', 1, 'Hello Shu');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (4, '4428282679', '3925524729', 1, 'Hi junyuan');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (7, '7971412876', '3925524729', 1, 'Hi yuan');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (8, '3925524729', '2422100825', 1, 'Hi Wuyue');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (11, '7971412876', '2422100825', 1, 'Hi wuyue');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (12, '7971412876', '1923185640', 1, 'HI shukai');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (13, '1923185640', '3925524729', 1, 'Hi junyuan');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (14, '1923185640', '2422100825', 1, 'Hi wuyue');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (15, '6770262065', '4428282679', 1, 'hi dongzhe');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (16, '5142035504', '8744346133', 1, 'Hi I''m bob');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (17, '8744346133', '6770262065', 1, 'Hi Anna, I am Jack. ');
+INSERT INTO comp9900_backend.connection_table (connection_id, user_id_A, user_id_B, connection_result, connection_msg) VALUES (18, '5142035504', '6770262065', 1, 'Hi I''m bob');
