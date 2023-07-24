@@ -10,7 +10,7 @@ Task Hero is a team management tool designed to streamline resource allocation f
   - [Live Demo](#live-demo)
   - [Features](#features)
   - [Local Deployment](#local-deployment)
-  - [Backend](#backend)
+  - [Frontend](#frontend)
   - [System Architecture](#system-architecture)
   - [File Structure](#file-structure)
   - [Technical Support or Questions](#technical-support-or-questions)
@@ -44,7 +44,10 @@ The backend of Task Hero was developed by
 
 ## Local Deployment
 [Please view this local deployment instruction.](ready-to-deploy/instruction.md)
-## Backend
+
+## Frontend
+
+Click to view [the repo of the frontend](https://github.com/happicodie/Task-Hero-Frontend)
 
 ## System Architecture
 <img alt="image" src="public/Architecture.png">
